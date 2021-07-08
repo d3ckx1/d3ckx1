@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<p>
+  <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=d3ckx1&show_icons=true&hide_border=true&hide=prs&theme=buefy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3ckx1&layout=compact&hide_border=true&theme=buefy&show_icons=true">
+</p>
 <!--
 **d3ckx1/d3ckx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
